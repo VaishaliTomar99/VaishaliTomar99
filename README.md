@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/HTML-basic-orange?style=for-the-badge&logo=html5" />
   <img src="https://img.shields.io/badge/CSS-basic-blue?style=for-the-badge&logo=css3" />
   <img src="https://img.shields.io/badge/JavaScript-basic-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/TypeScript-basic-blue?style=for-the-badge&logo=typescript" />
+  
 </p>
 
 ---
