@@ -94,14 +94,14 @@ Weather information application using APIs and JavaScript.
 </p>
 
 ---
+📫 Contact
+•⁠  ⁠📧 Email: tomarvaishali2000@gmail.com
+•⁠  ⁠💼 LinkedIn: https://www.linkedin.com/in/vaishali-tomar-bb9247304
 
+## ✨ Quote
+> **“Consistency beats talent when talent doesn’t stay consistent.”** 🌱
 <!-- ===================== WAVE FOOTER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
-📫 Contact
-•⁠  ⁠📧 Email: tomarvaishali2000@gmail.com
-•⁠  ⁠💼 LinkedIn: https://www.linkedin.com/in/vaishali-tomar-bb9247304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-## ✨ Quote
-> **“Consistency beats talent when talent doesn’t stay consistent.”** 🌱
