@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Vaishali Tomar</h1>
-<h3 align="center">
-  Aspiring Software Engineer 🚀 | AI/ML Learner 🤖 | Programming Enthusiast 💻
-</h3>
+<!-- ===================== WAVE HEADER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Vaishali%20Tomar&fontSize=42&fontAlignY=35&desc=Aspiring%20Software%20Engineer%20|%20AI/ML%20Learner%20|%20Programming%20Enthusiast&descAlignY=55&animation=fadeIn" />
+</p>
 
+<!-- ===================== PROFILE VIEWS & BADGES ===================== -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VaishaliTomar99&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
 </p>
@@ -15,14 +16,16 @@
 
 ---
 
+<!-- ===================== ABOUT ME ===================== -->
 ## 🌟 About Me
-✨ I am an **Aspiring Software Engineer** with a strong interest in **problem-solving and programming**.  
-🤖 I am learning and exploring **Artificial Intelligence & Machine Learning** concepts.  
-📚 Currently strengthening my **DSA, core CS fundamentals, and backend basics**.  
-🛠️ I enjoy building **small to medium projects** to apply what I learn.  
+✨ Aspiring **Software Engineer** with a strong interest in **problem-solving and programming**.  
+🤖 Learning and exploring **Artificial Intelligence & Machine Learning** concepts.  
+📚 Currently improving **DSA, core CS fundamentals, and backend basics**.  
+🛠️ Hands-on experience through **academic and self-learning projects**.  
 
 ---
 
+<!-- ===================== SKILLS ===================== -->
 ## 🧰 Technical Skills
 
 ### 💻 Programming Languages
@@ -32,8 +35,6 @@
   <img src="https://img.shields.io/badge/C-grey?style=for-the-badge" />
 </p>
 
----
-
 ### 🤖 AI / Machine Learning (Basic–Intermediate)
 <p>
   <img src="https://img.shields.io/badge/Machine%20Learning-basic-blueviolet?style=for-the-badge" />
@@ -41,19 +42,15 @@
   <img src="https://img.shields.io/badge/PyTorch-learning-red?style=for-the-badge&logo=pytorch" />
 </p>
 
----
-
 ### 🌐 Web Development (Basic)
 <p>
   <img src="https://img.shields.io/badge/HTML-basic-orange?style=for-the-badge&logo=html5" />
   <img src="https://img.shields.io/badge/CSS-basic-blue?style=for-the-badge&logo=css3" />
   <img src="https://img.shields.io/badge/JavaScript-basic-yellow?style=for-the-badge&logo=javascript" />
-  
+  <img src="https://img.shields.io/badge/TypeScript-basic-blue?style=for-the-badge&logo=typescript" />
 </p>
 
----
-
-### 🛠️ Tools & Platforms
+### 🛠️ Tools
 <p>
   <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" />
   <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
@@ -62,30 +59,32 @@
 
 ---
 
+<!-- ===================== PROJECTS ===================== -->
 ## 🚀 Projects
 🔹 **HumanIntent-AI**  
-Deep learning-based human intention & violence detection project using CNN-LSTM.
+Deep learning-based human intention & violence detection using CNN-LSTM.
 
 🔹 **LLM-Gen-AI**  
-Hands-on experiments and implementations related to large language models.
+Hands-on experiments and implementations related to Large Language Models.
 
 🔹 **AlgoArena**  
 Problem-solving and algorithm practice-oriented project.
 
 🔹 **ListFlick**  
-Simple and clean To-Do List application using JavaScript.
+Simple To-Do List application using JavaScript.
 
 🔹 **JobBoardApp**  
 Basic job listing application to understand frontend flow.
 
 🔹 **QuizApp**  
-Interactive quiz application using JavaScript.
+Interactive quiz application built with JavaScript.
 
 🔹 **WeatherApp**  
-Weather information app using APIs and JavaScript.
+Weather information application using APIs and JavaScript.
 
 ---
 
+<!-- ===================== GITHUB STATS ===================== -->
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VaishaliTomar99&show_icons=true&theme=radical" />
@@ -97,5 +96,7 @@ Weather information app using APIs and JavaScript.
 
 ---
 
-## ✨ Quote
-> **“Consistency beats talent when talent doesn’t stay consistent.”** 🌱
+<!-- ===================== WAVE FOOTER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+</p>
